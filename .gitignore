@@ -5,3 +5,4 @@ node_modules
 .bendersysdconfig
 .editorconfig
 hubot-codinglove/
+bin/hubot
